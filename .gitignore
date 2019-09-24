@@ -1,0 +1,7 @@
+.DS_Store
+/.idea/*
+/vendor/
+composer.phar
+composer.lock
+php-cs-fixer.phar
+.php_cs.cache
